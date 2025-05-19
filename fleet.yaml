@@ -1,0 +1,6 @@
+defaultNamespace: default
+
+helm:
+  chart: ./my-test/charts
+  valuesFiles:
+    - values.yaml
