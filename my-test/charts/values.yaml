@@ -12,8 +12,8 @@ service:
   ports:
     port5000: 5000
     port8080: 8080
-    nodePort5000: 30001
-    nodePort8080: 30002
+    nodePort5000: 30004
+    nodePort8080: 30005
 
 resources:
   limits:
