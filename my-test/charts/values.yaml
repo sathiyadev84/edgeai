@@ -1,6 +1,6 @@
 # values.yaml
 
-replicaCount: 2
+replicaCount: 1
 
 image:
   repository: commonpoc.azurecr.io/hardhat_detection
